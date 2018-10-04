@@ -1,0 +1,26 @@
+.fab{
+    font-size: 2em;
+}
+section{
+    display: flex;
+    flex-direction: row;
+    margin: 5% 3% 3% 4%;
+}
+button{
+    width: 15%;
+    height: 15%;
+    margin-left: 3%;
+}
+a{
+    margin-right: 3%;
+}
+.chart-container{
+    margin-right: 0px;
+    display: flex;
+    flex-direction: column;
+    
+}
+h1{
+    margin-left: 16%;
+    font-family: 'Lakki Reddy', cursive;
+}
